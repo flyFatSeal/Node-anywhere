@@ -13,7 +13,7 @@ module.exports = {
     "parser": "babel-eslint",
     "rules": {
         "no-console": ["error", {
-            "allow": ["warn", "infro"]
+            "allow": ["warn", "info"]
         }],
         "indent": [
             "error",
