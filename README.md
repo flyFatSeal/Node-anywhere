@@ -5,6 +5,4 @@ Practive  of Node static web server
 
 npm install pra-anydoor
 
-# 使用方法
 
-bin/anydoor --option -p -h -v
